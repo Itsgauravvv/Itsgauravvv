@@ -3,7 +3,7 @@
 <img src="./assets/banner.svg" width="100%" alt="Gaurav Joshi" />
 
 <a href="https://github.com/Itsgauravvv">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=780&height=50&lines=Initializing+Gaurav.exe+...;Mastering+DSA+in+C%2B%2B;Exploring+ML+%C2%B7+GenAI+%C2%B7+Agentic+AI;Ask+me+about+Python%2C+AI+%26+DSA" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=780&height=50&lines=Initializing+Gaurav.exe+...;ASP.NET;Exploring+DL+%C2%B7+GenAI+%C2%B7+Agentic+AI" alt="Typing animation" />
 </a>
 
 <br/><br/>
@@ -22,7 +22,7 @@
 
 <h3>⟦ &nbsp;N E U R A L &nbsp; O R B I T&nbsp; ⟧</h3>
 
-<img src="./assets/orbit.svg" width="70%" alt="Orbiting skills: DSA, C++, ML, GenAI, Agentic AI, Python, React, Node.js, Cloud" />
+<img src="./assets/orbit.svg" width="70%" alt="Orbiting skills: .NET, C++, ML, GenAI, Agentic AI, Python, React, Node.js, Cloud" />
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
