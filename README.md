@@ -76,22 +76,16 @@
 
 <h3>⟦ &nbsp;S Y S T E M &nbsp; S T A T S&nbsp; ⟧</h3>
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=Itsgauravvv&show_icons=true&hide_border=false&bg_color=05060F&title_color=00F0FF&text_color=C8D6E5&icon_color=FF2BD6&border_color=00F0FF&ring_color=FF2BD6&include_all_commits=false&count_private=false" alt="GitHub stats" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itsgauravvv&layout=compact&hide_border=false&bg_color=05060F&title_color=00F0FF&text_color=C8D6E5&border_color=00F0FF" alt="Top languages" />
-
-<br/>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=Itsgauravvv&background=05060F&border=00F0FF&ring=FF2BD6&fire=00F0FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00F0FF&sideLabels=FF2BD6&dates=8899AA&hide_border=false" alt="GitHub streak" />
+<img src="./assets/stats.svg" width="49%" alt="GitHub stats" />
+<img src="./assets/languages.svg" width="49%" alt="Top languages" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Itsgauravvv&bg_color=05060F&color=00F0FF&line=FF2BD6&point=FFFFFF&area=true&area_color=7B2FFF&hide_border=true&radius=8" width="100%" alt="Contribution activity graph" />
+<img src="./assets/streak.svg" width="98%" alt="Streak tracker" />
 
 <br/><br/>
 
-<h3>⟦ &nbsp;A C H I E V E M E N T S&nbsp; ⟧</h3>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Itsgauravvv&theme=radical&no-frame=true&no-bg=true&margin-w=12&column=7" alt="GitHub trophies" />
+<img src="./assets/heatmap.svg" width="98%" alt="Contribution matrix" />
 
 <br/><br/>
 
@@ -99,7 +93,7 @@
 
 <br/><br/>
 
-<a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=Itsgauravvv&icon=0&color=0" alt="Visitor count" /></a>
+<img src="https://komarev.com/ghpvc/?username=Itsgauravvv&label=VISITORS&color=7B2FFF&style=for-the-badge" alt="Visitor count" />
 
 <br/><br/>
 
