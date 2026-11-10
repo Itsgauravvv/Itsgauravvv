@@ -1,24 +1,113 @@
-# 💫 About Me:
-🚀 B.Tech CSE (AI & ML) student<br>🔧 Currently mastering Data Structures & Algorithms in C++<br>🤖 Exploring Machine Learning, Generative AI, and Agentic AI<br>💬 Feel free to ask me about Python, AI, and DSA
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:000000,55:15110a,100:4a3b0f&text=GAURAV%20JOSHI&fontColor=D4AF37&fontSize=68&fontAlignY=38&desc=Engineering%20%C2%B7%20Intelligence%20%C2%B7%20Craft&descColor=E8D9A0&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="Gaurav Joshi" />
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/gaurav-joshi-a9083b284) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/gaurav_joshi_12) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gauravrpjoshi1205@gmail.com) 
+<a href="https://github.com/Itsgauravvv">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=900&color=D4AF37&center=true&vCenter=true&width=720&height=50&lines=B.Tech+CSE+%28AI+%26+ML%29+Student;Mastering+Data+Structures+%26+Algorithms+in+C%2B%2B;Exploring+Machine+Learning+%C2%B7+GenAI+%C2%B7+Agentic+AI;Ask+me+about+Python%2C+AI+%26+DSA" alt="Typing animation" />
+</a>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Itsgauravvv&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Itsgauravvv&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Itsgauravvv&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Itsgauravvv&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<a href="https://www.linkedin.com/in/gaurav-joshi-a9083b284"><img src="https://img.shields.io/badge/LinkedIn-0B0B0F?style=for-the-badge&logo=linkedin&logoColor=D4AF37" alt="LinkedIn" /></a>
+<a href="https://x.com/gaurav_joshi_12"><img src="https://img.shields.io/badge/X-0B0B0F?style=for-the-badge&logo=x&logoColor=D4AF37" alt="X" /></a>
+<a href="mailto:gauravrpjoshi1205@gmail.com"><img src="https://img.shields.io/badge/Email-0B0B0F?style=for-the-badge&logo=gmail&logoColor=D4AF37" alt="Email" /></a>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0B0F,50:D4AF37,100:0B0B0F&height=2" width="100%" alt="" />
 
----
-[![](https://visitcount.itsvg.in/api?id=Itsgauravvv&icon=0&color=0)](https://visitcount.itsvg.in)
+<h3>✦ &nbsp;A B O U T&nbsp; ✦</h3>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<table>
+  <tr>
+    <td align="center">🎓<br/><b>Studying</b><br/>B.Tech CSE<br/>(AI &amp; ML)</td>
+    <td align="center">⚙️<br/><b>Mastering</b><br/>DSA<br/>in C++</td>
+    <td align="center">🤖<br/><b>Exploring</b><br/>ML · GenAI<br/>Agentic AI</td>
+    <td align="center">💬<br/><b>Ask me about</b><br/>Python · AI<br/>DSA</td>
+  </tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0B0F,50:D4AF37,100:0B0B0F&height=2" width="100%" alt="" />
+
+<h3>✦ &nbsp;T E C H &nbsp; S T A C K&nbsp; ✦</h3>
+
+<b>Languages</b><br/><br/>
+<img src="https://img.shields.io/badge/C++-0B0B0F?style=for-the-badge&logo=cplusplus&logoColor=D4AF37" alt="C++" />
+<img src="https://img.shields.io/badge/C%23-0B0B0F?style=for-the-badge&logo=csharp&logoColor=D4AF37" alt="C#" />
+<img src="https://img.shields.io/badge/Python-0B0B0F?style=for-the-badge&logo=python&logoColor=D4AF37" alt="Python" />
+<img src="https://img.shields.io/badge/TypeScript-0B0B0F?style=for-the-badge&logo=typescript&logoColor=D4AF37" alt="TypeScript" />
+<img src="https://img.shields.io/badge/JavaScript-0B0B0F?style=for-the-badge&logo=javascript&logoColor=D4AF37" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Zig-0B0B0F?style=for-the-badge&logo=zig&logoColor=D4AF37" alt="Zig" />
+<img src="https://img.shields.io/badge/HTML5-0B0B0F?style=for-the-badge&logo=html5&logoColor=D4AF37" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-0B0B0F?style=for-the-badge&logo=css3&logoColor=D4AF37" alt="CSS3" />
+
+<br/><br/><b>Frontend</b><br/><br/>
+<img src="https://img.shields.io/badge/React-0B0B0F?style=for-the-badge&logo=react&logoColor=D4AF37" alt="React" />
+<img src="https://img.shields.io/badge/Redux-0B0B0F?style=for-the-badge&logo=redux&logoColor=D4AF37" alt="Redux" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-0B0B0F?style=for-the-badge&logo=tailwindcss&logoColor=D4AF37" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/Bootstrap-0B0B0F?style=for-the-badge&logo=bootstrap&logoColor=D4AF37" alt="Bootstrap" />
+<img src="https://img.shields.io/badge/Three.js-0B0B0F?style=for-the-badge&logo=threedotjs&logoColor=D4AF37" alt="Three.js" />
+<img src="https://img.shields.io/badge/Chart.js-0B0B0F?style=for-the-badge&logo=chartdotjs&logoColor=D4AF37" alt="Chart.js" />
+
+<br/><br/><b>Backend</b><br/><br/>
+<img src="https://img.shields.io/badge/Node.js-0B0B0F?style=for-the-badge&logo=nodedotjs&logoColor=D4AF37" alt="Node.js" />
+<img src="https://img.shields.io/badge/Express.js-0B0B0F?style=for-the-badge&logo=express&logoColor=D4AF37" alt="Express.js" />
+<img src="https://img.shields.io/badge/Flask-0B0B0F?style=for-the-badge&logo=flask&logoColor=D4AF37" alt="Flask" />
+<img src="https://img.shields.io/badge/JWT-0B0B0F?style=for-the-badge&logo=jsonwebtokens&logoColor=D4AF37" alt="JWT" />
+<img src="https://img.shields.io/badge/NPM-0B0B0F?style=for-the-badge&logo=npm&logoColor=D4AF37" alt="NPM" />
+
+<br/><br/><b>AI · Data · Vision</b><br/><br/>
+<img src="https://img.shields.io/badge/NumPy-0B0B0F?style=for-the-badge&logo=numpy&logoColor=D4AF37" alt="NumPy" />
+<img src="https://img.shields.io/badge/Pandas-0B0B0F?style=for-the-badge&logo=pandas&logoColor=D4AF37" alt="Pandas" />
+<img src="https://img.shields.io/badge/scikit--learn-0B0B0F?style=for-the-badge&logo=scikitlearn&logoColor=D4AF37" alt="scikit-learn" />
+<img src="https://img.shields.io/badge/SciPy-0B0B0F?style=for-the-badge&logo=scipy&logoColor=D4AF37" alt="SciPy" />
+<img src="https://img.shields.io/badge/OpenCV-0B0B0F?style=for-the-badge&logo=opencv&logoColor=D4AF37" alt="OpenCV" />
+
+<br/><br/><b>Databases</b><br/><br/>
+<img src="https://img.shields.io/badge/MongoDB-0B0B0F?style=for-the-badge&logo=mongodb&logoColor=D4AF37" alt="MongoDB" />
+<img src="https://img.shields.io/badge/MySQL-0B0B0F?style=for-the-badge&logo=mysql&logoColor=D4AF37" alt="MySQL" />
+<img src="https://img.shields.io/badge/SQLite-0B0B0F?style=for-the-badge&logo=sqlite&logoColor=D4AF37" alt="SQLite" />
+
+<br/><br/><b>Cloud &amp; Tools</b><br/><br/>
+<img src="https://img.shields.io/badge/Google_Cloud-0B0B0F?style=for-the-badge&logo=googlecloud&logoColor=D4AF37" alt="Google Cloud" />
+<img src="https://img.shields.io/badge/Azure-0B0B0F?style=for-the-badge&logo=microsoftazure&logoColor=D4AF37" alt="Azure" />
+<img src="https://img.shields.io/badge/Oracle-0B0B0F?style=for-the-badge&logo=oracle&logoColor=D4AF37" alt="Oracle" />
+<img src="https://img.shields.io/badge/GitHub-0B0B0F?style=for-the-badge&logo=github&logoColor=D4AF37" alt="GitHub" />
+
+<br/><br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0B0F,50:D4AF37,100:0B0B0F&height=2" width="100%" alt="" />
+
+<h3>✦ &nbsp;G I T H U B &nbsp; S T A T S&nbsp; ✦</h3>
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=Itsgauravvv&show_icons=true&hide_border=false&bg_color=0B0B0F&title_color=D4AF37&text_color=D9D9D9&icon_color=D4AF37&border_color=D4AF37&ring_color=D4AF37&include_all_commits=false&count_private=false" alt="GitHub stats" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itsgauravvv&layout=compact&hide_border=false&bg_color=0B0B0F&title_color=D4AF37&text_color=D9D9D9&border_color=D4AF37" alt="Top languages" />
+
+<br/>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=Itsgauravvv&background=0B0B0F&border=D4AF37&ring=D4AF37&fire=D4AF37&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=D4AF37&sideLabels=D4AF37&dates=9A9A9A&hide_border=false" alt="GitHub streak" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Itsgauravvv&bg_color=0B0B0F&color=D4AF37&line=D4AF37&point=FFFFFF&area=true&area_color=D4AF37&hide_border=true&radius=8" width="100%" alt="Contribution activity graph" />
+
+<br/><br/>
+
+<h3>✦ &nbsp;T R O P H I E S&nbsp; ✦</h3>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Itsgauravvv&theme=alduin&no-frame=true&no-bg=true&margin-w=12&column=7" alt="GitHub trophies" />
+
+<br/><br/>
+
+<h3>✦ &nbsp;C O N T R I B U T I O N &nbsp; S N A K E&nbsp; ✦</h3>
+
+<img src="https://raw.githubusercontent.com/Itsgauravvv/Itsgauravvv/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake" />
+
+<br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random dev quote" />
+
+<br/><br/>
+
+<a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=Itsgauravvv&icon=0&color=0" alt="Visitor count" /></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:000000,55:15110a,100:4a3b0f&section=footer&reversal=true" width="100%" alt="" />
+
+</div>
