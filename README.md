@@ -3,7 +3,7 @@
 <img src="./assets/banner.svg" width="100%" alt="Gaurav Joshi" />
 
 <a href="https://github.com/Itsgauravvv">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=780&height=50&Building+with+ASP.NET+%26+Gen+AI;Exploring+DL+%C2%B7+GenAI+%C2%B7+Agentic+AI;" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=780&height=50&lines=Initializing+Gaurav.exe+...;Building+with+ASP.NET+%26+Gen+AI;Exploring+DL+%C2%B7+GenAI+%C2%B7+Agentic+AI" alt="Typing animation" />
 </a>
 
 <br/><br/>
