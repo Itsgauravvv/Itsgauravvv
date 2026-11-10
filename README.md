@@ -49,9 +49,9 @@
 <br/><br/><b>[ BACKEND ]</b><br/><br/>
 <img src="https://img.shields.io/badge/Node.js-0A0E1A?style=for-the-badge&logo=nodedotjs&logoColor=B388FF" alt="Node.js" />
 <img src="https://img.shields.io/badge/Express.js-0A0E1A?style=for-the-badge&logo=express&logoColor=B388FF" alt="Express.js" />
-<img src="https://img.shields.io/badge/Flask-0A0E1A?style=for-the-badge&logo=flask&logoColor=B388FF" alt="Flask" />
+<img src="https://img.shields.io/badge/FastAPI-0A0E1A?style=for-the-badge&logo=fastapi&logoColor=B388FF" alt="FastAPI" />
+<img src="https://img.shields.io/badge/REST_APIs-0A0E1A?style=for-the-badge&logo=swagger&logoColor=B388FF" alt="REST APIs" />
 <img src="https://img.shields.io/badge/JWT-0A0E1A?style=for-the-badge&logo=jsonwebtokens&logoColor=B388FF" alt="JWT" />
-<img src="https://img.shields.io/badge/NPM-0A0E1A?style=for-the-badge&logo=npm&logoColor=B388FF" alt="NPM" />
 
 <br/><br/><b>[ AI · DATA · VISION ]</b><br/><br/>
 <img src="https://img.shields.io/badge/NumPy-0A0E1A?style=for-the-badge&logo=numpy&logoColor=39FF14" alt="NumPy" />
@@ -68,7 +68,6 @@
 <br/><br/><b>[ CLOUD &amp; TOOLS ]</b><br/><br/>
 <img src="https://img.shields.io/badge/Google_Cloud-0A0E1A?style=for-the-badge&logo=googlecloud&logoColor=FF2BD6" alt="Google Cloud" />
 <img src="https://img.shields.io/badge/Azure-0A0E1A?style=for-the-badge&logo=microsoftazure&logoColor=FF2BD6" alt="Azure" />
-<img src="https://img.shields.io/badge/Oracle-0A0E1A?style=for-the-badge&logo=oracle&logoColor=FF2BD6" alt="Oracle" />
 <img src="https://img.shields.io/badge/GitHub-0A0E1A?style=for-the-badge&logo=github&logoColor=FF2BD6" alt="GitHub" />
 
 <br/><br/>

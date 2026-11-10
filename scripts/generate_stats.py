@@ -135,13 +135,13 @@ def build(u):
             (833, "LONGEST STREAK", longest, "days", G)]
     inner = ""
     for x, lab, val, sub, col in cols:
-        inner += (f'<text x="{x}" y="112" text-anchor="middle" font-family="{MONO}" font-size="46" font-weight="bold" fill="#FFFFFF" filter="url(#g)">{num(val)}</text>'
-                  f'<text x="{x}" y="138" text-anchor="middle" font-family="{MONO}" font-size="13" fill="{col}" letter-spacing="2">{lab}</text>'
-                  f'<text x="{x}" y="158" text-anchor="middle" font-family="{MONO}" font-size="11" fill="#7F8FA9">{sub}</text>')
-    inner += (f'<circle cx="500" cy="100" r="58" fill="none" stroke="{M}" stroke-width="3" stroke-opacity=".9" stroke-dasharray="364" stroke-dashoffset="364" transform="rotate(-90 500 100)" filter="url(#g)">'
-              f'<animate attributeName="stroke-dashoffset" values="364;0;0;364" keyTimes="0;.4;.8;1" dur="6s" repeatCount="indefinite"/></circle>')
-    inner += f'<line x1="333" y1="70" x2="333" y2="150" stroke="{C}" stroke-opacity=".2"/><line x1="667" y1="70" x2="667" y2="150" stroke="{C}" stroke-opacity=".2"/>'
-    open(f"{OUT}/streak.svg", "w").write(frame(W, 180, "// STREAK TRACKER", inner))
+        inner += (f'<text x="{x}" y="113" text-anchor="middle" font-family="{MONO}" font-size="40" font-weight="bold" fill="#FFFFFF" filter="url(#g)">{num(val)}</text>'
+                  f'<text x="{x}" y="164" text-anchor="middle" font-family="{MONO}" font-size="13" fill="{col}" letter-spacing="2">{lab}</text>'
+                  f'<text x="{x}" y="183" text-anchor="middle" font-family="{MONO}" font-size="11" fill="#7F8FA9">{sub}</text>')
+    inner += (f'<circle cx="500" cy="99" r="42" fill="none" stroke="{M}" stroke-width="3" stroke-opacity=".9" stroke-dasharray="264" stroke-dashoffset="264" transform="rotate(-90 500 99)" filter="url(#g)">'
+              f'<animate attributeName="stroke-dashoffset" values="264;0;0;264" keyTimes="0;.4;.8;1" dur="6s" repeatCount="indefinite"/></circle>')
+    inner += f'<line x1="333" y1="72" x2="333" y2="172" stroke="{C}" stroke-opacity=".2"/><line x1="667" y1="72" x2="667" y2="172" stroke="{C}" stroke-opacity=".2"/>'
+    open(f"{OUT}/streak.svg", "w").write(frame(W, 202, "// STREAK TRACKER", inner))
 
     # contribution heatmap
     weeks = cal["weeks"]
